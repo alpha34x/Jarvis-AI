@@ -22,12 +22,12 @@ while True:
 
 		if data.find("yeelight") != -1:
 			encontrado = True
-			print("Encontrada bombilla Xiaomi Yeelight")
+			print("Found a Xiaomi Yeelight")
 			print(data)
 			break
 	except:
-		print("No se ha encontrado ninguna bombilla Xiaomi Yeelight")
+		print("Couldn't find any Xiaomi Yeelight")
 		break
 
-print("Proceso terminado")
+print("Process have finished")
 s.close()
