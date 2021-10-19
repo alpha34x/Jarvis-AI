@@ -16,6 +16,7 @@ Things you can do:
 - Tell him to sum up, deduct, multiply and divide two values with the command voice "Sum up _ with _" or "Deduct _ with _" or "Multiply _ with _" or "Divide _ with _"
 - Tell him to translate whatever you want to Spanish, English or French with the command voice "Translate to spanish/english/french ..."
 - Tell him to turn on and off and to change the color your bulb if you have a Smart Bulb of Xiaomi Yeelight with the command voice "Turn on/off the light" and "Change the light color to blue" (Note: *To change the color of your bulb you will need a rgb bulb*)
+- Tell him to tell you a joke with the voice command "tell me a joke"
 
 
 
