@@ -18,4 +18,9 @@ Things you can do:
 - Tell him to turn on and off and to change the color your bulb if you have a Smart Bulb of Xiaomi Yeelight with the command voice "Turn on/off the light" and "Change the light color to blue" (Note: *To change the color of your bulb you will need a rgb bulb*)
 
 
-You can also buy a premium licence in our discord. That means that we will personalize you the program for some things
+
+You can also buy a premium licence in our discord. That means that we will personalize you the program for some things, like:
+
+- Add all the rooms from your house that have smart bulbs of xiaomi yeelight and personalize the voices commands
+- Get personal help to use the program and for see the problems you have
+- Personalize some command voices you want if we can add it to our program
