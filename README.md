@@ -20,8 +20,18 @@ Things you can do:
 
 
 
+
 You can also buy a premium licence in our discord. That means that we will personalize you the program for some things, like:
 
 - Add all the rooms from your house that have smart bulbs of xiaomi yeelight and personalize the voices commands
 - Get personal help to use the program and for see the problems you have
 - Personalize some command voices you want if we can add it to our program
+
+
+
+
+In this repository you can find a file called discovery.py  This file will allow you to know what the IP from your Yeelight Bulb, but there are some steps you need to follow before execute it:
+
+- First of all, you have to configure your bulb with the Yeelight App that you can download in your mobile phone store
+- Then, you need to install Python in your computer. Note: *You can install it in the Microsoft Store or in their official web*
+- Finally, you have to be in the same Wi-Fi where your bulb is connected and execute the program. It will tell you the IP, so copy it and paste in the program
