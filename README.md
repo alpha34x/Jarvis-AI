@@ -28,10 +28,3 @@ En este repositorio puedes encontrar un archivo llamado discovery.py Este archiv
 - Luego, debe instalar Python en su computadora. Nota: Puedes instalarlo en Microsoft Store o en su web oficial
 - Finalmente, tienes que estar en el mismo Wi-Fi donde está conectada tu bombilla y ejecutar el programa
 
-
-
-En este repositorio puedes encontrar un archivo llamado discovery.py Este archivo te permitirá saber cuál es la IP de tu bombilla Yeelight, pero hay algunos pasos que debes seguir antes de ejecutarlo:
-
-- En primer lugar, tienes que configurar tu bombilla con la App Yeelight que puedes descargar en tu tienda de teléfonos móviles
-- Luego, debe instalar Python en su computadora. Nota: *Puedes instalarlo en Microsoft Store o en su web oficial*
-- Por último, tienes que estar en el mismo Wi-Fi donde está conectada tu bombilla y ejecutar el programa. Te dirá la IP, así que cópiala y pégala en el programa
