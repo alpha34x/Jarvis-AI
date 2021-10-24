@@ -8,14 +8,14 @@ Cosas que puedes hacer:
 
 - Dile que reproduzca cualquier canción que puedas encontrar en youtube con el comando de voz: "Reproduce ..."
 - Dile que busque lo que quieras con la voz del comando: "Busca ..."
-- Dígale que busque información de una persona con la voz de comando: "Who is ..." or "What is ..."
-- Dígale que le diga qué hora es con la voz del comando "What time is it?"
-- Dile que te diga cuál es la temperatura de cualquier ciudad con la voz de comando "I need to know the weather" entonces Jarvis te preguntará de qué ciudad quieres saber
-- Dígale que configure una alarma con la voz de comando "I want to set an alarm" o "I need to set up an alarm", entonces Jarvis te preguntará sobre la hora y más tarde el minuto. (Tienes que decir el número de la hora y luego, cuando Jarvis te pregunte, el número del minuto) Nota: Cuando configuras una alarma, no podrás usar el programa hasta que suene la alarma.
-- Dígale que resuma, deduzca, multiplique y divida dos valores con la voz de comando "Sum up _ with _" o "Deduct _ with _" o "Multiply _ with _" o "Divide _ with _"
-- Dile que traduzca lo que quieras al español, inglés o francés con la voz de comando "Translate to spanish/english/french ..."
-- Dígale que encienda y apague y que cambie el color de su bombilla si tiene una bombilla inteligente de Xiaomi Yeelight con el comando de voz "Turn on/off the light" y "Change the light color to blue" (Nota: Para cambiar el color de tu bombilla necesitarás una bombilla rgb)
-- Dile que te cuente un chiste con el comando de voz "tell me a joke"
+- Dígale que busque información de una persona con la voz de comando: "Quien es ..." or "Que es ..."
+- Dígale que le diga qué hora es con la voz del comando "Que hora es?"
+- Dile que te diga cuál es la temperatura de cualquier ciudad con la voz de comando "Necesito saber el tiempo" entonces Jarvis te preguntará de qué ciudad quieres saber
+- Dígale que configure una alarma con la voz de comando "Pon una alarma", entonces Jarvis te preguntará sobre la hora y más tarde el minuto. (Tienes que decir el número de la hora y luego, cuando Jarvis te pregunte, el número del minuto) Nota: Cuando configuras una alarma, no podrás usar el programa hasta que suene la alarma.
+- Dígale que resuma, deduzca, multiplique y divida dos valores con la voz de comando "Suma _ con _" o "Resta _ menos _" o "Multiplica _ con _" o "Divide _ con _"
+- Dile que traduzca lo que quieras al español, inglés o francés con la voz de comando "Traduce al español/ingles/frances ..."
+- Dígale que encienda y apague y que cambie el color de su bombilla si tiene una bombilla inteligente de Xiaomi Yeelight con el comando de voz "Enciende/Apaga la luz" y "Cambia la luz a _" (Nota: Para cambiar el color de tu bombilla necesitarás una bombilla rgb)
+- Dile que te cuente un chiste con el comando de voz "Cuentame un chiste"
 
 También puede comprar una licencia premium en nuestra discordia. Eso significa que personalizaremos el programa para algunas cosas, como:
 
